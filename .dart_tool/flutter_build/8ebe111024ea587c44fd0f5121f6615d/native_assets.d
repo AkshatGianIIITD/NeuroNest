@@ -1,0 +1,1 @@
+ C:\\flutter\ practice\\neuronest_frontend\\neuronest_flutter_frontend\\.dart_tool\\flutter_build\\8ebe111024ea587c44fd0f5121f6615d\\native_assets.yaml: 

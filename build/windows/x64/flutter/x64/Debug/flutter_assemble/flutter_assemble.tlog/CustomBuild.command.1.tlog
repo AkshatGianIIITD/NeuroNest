@@ -1,0 +1,28 @@
+^C:\FLUTTER PRACTICE\NEURONEST_FRONTEND\NEURONEST_FLUTTER_FRONTEND\BUILD\WINDOWS\X64\CMAKEFILES\3AA2F41CB3F69DFDFCE09AF0FADC8828\FLUTTER_WINDOWS.DLL.RULE
+setlocal
+"C:\Program Files\Microsoft Visual Studio\2022\Community\Common7\IDE\CommonExtensions\Microsoft\CMake\CMake\bin\cmake.exe" -E env FLUTTER_ROOT=C:\flutter\flutter "PROJECT_DIR=C:\flutter practice\neuronest_frontend\neuronest_flutter_frontend" FLUTTER_ROOT=C:\flutter\flutter "FLUTTER_EPHEMERAL_DIR=C:\flutter practice\neuronest_frontend\neuronest_flutter_frontend\windows\flutter\ephemeral" "PROJECT_DIR=C:\flutter practice\neuronest_frontend\neuronest_flutter_frontend" "FLUTTER_TARGET=C:\flutter practice\neuronest_frontend\neuronest_flutter_frontend\lib\main.dart" DART_OBFUSCATION=false TRACK_WIDGET_CREATION=true TREE_SHAKE_ICONS=false "PACKAGE_CONFIG=C:\flutter practice\neuronest_frontend\neuronest_flutter_frontend\.dart_tool\package_config.json" C:/flutter/flutter/packages/flutter_tools/bin/tool_backend.bat windows-x64 Debug
+if %errorlevel% neq 0 goto :cmEnd
+:cmEnd
+endlocal & call :cmErrorLevel %errorlevel% & goto :cmDone
+:cmErrorLevel
+exit /b %1
+:cmDone
+if %errorlevel% neq 0 goto :VCEnd
+^C:\FLUTTER PRACTICE\NEURONEST_FRONTEND\NEURONEST_FLUTTER_FRONTEND\BUILD\WINDOWS\X64\CMAKEFILES\84455D9753C8E1CF3EB5426E1F3F2E58\FLUTTER_ASSEMBLE.RULE
+setlocal
+:cmEnd
+endlocal & call :cmErrorLevel %errorlevel% & goto :cmDone
+:cmErrorLevel
+exit /b %1
+:cmDone
+if %errorlevel% neq 0 goto :VCEnd
+^C:\FLUTTER PRACTICE\NEURONEST_FRONTEND\NEURONEST_FLUTTER_FRONTEND\WINDOWS\FLUTTER\CMAKELISTS.TXT
+setlocal
+"C:\Program Files\Microsoft Visual Studio\2022\Community\Common7\IDE\CommonExtensions\Microsoft\CMake\CMake\bin\cmake.exe" "-SC:/flutter practice/neuronest_frontend/neuronest_flutter_frontend/windows" "-BC:/flutter practice/neuronest_frontend/neuronest_flutter_frontend/build/windows/x64" --check-stamp-file "C:/flutter practice/neuronest_frontend/neuronest_flutter_frontend/build/windows/x64/flutter/CMakeFiles/generate.stamp"
+if %errorlevel% neq 0 goto :cmEnd
+:cmEnd
+endlocal & call :cmErrorLevel %errorlevel% & goto :cmDone
+:cmErrorLevel
+exit /b %1
+:cmDone
+if %errorlevel% neq 0 goto :VCEnd
