@@ -63,7 +63,7 @@ Our system follows a clear data pipeline to generate a cognitive assessment from
 ### **Model Architecture**
 
 * **Frontend:** Flutter  
-* **Speech-to-Text Engine:** Whisper, Wav2Vec2  
+* **Speech-to-Text Engine:** flutter speech-to-text plugin  
 * **Base NLP Model:** bert-base-uncased / BERT-large  
 * **Fine-Tuning:** The model was fine-tuned on a custom SQuAD-formatted dataset created from 200 speech recordings of healthy, MCI, and early-stage Alzheimer's patients.  
 * **QA Head:** A linear layer was added to the base model to predict the start and end positions of answer spans for cognitive assessment.
@@ -93,6 +93,6 @@ The application was tested with 5 elderly individuals (aged 65-80) over a 2-week
 
 ## **🤝 Contributions**
 
-* **Literature Review, Research & UI Design:** Ashwin Verma, Arun Singh Rawat  
-* **Dataset Creation, Model Training & Deployment:** Kunal, Dhairya  
-* **Flutter App Development & API Integration:** Akshat Gian, Kunal Dangi
+* **Literature Review, Research & UI Design** Akshat, Kunal
+* **Dataset Creation, Model Training & Deployment** Kunal
+* **Flutter App Development & API Integration** Akshat
