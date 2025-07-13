@@ -40,15 +40,16 @@ This dual-modality approach provides a daily cognitive "health score," allowing 
 
 ## **🖼️ App Demo & Screenshots**
 
-**Live Demo:** [**View the App Demo on Google Drive**](https://drive.google.com/file/d/1vGbvziJ4bIQpvKHRV0F6SaTSNdbrrvtq/view?usp=sharing)
+**Live Demo:** [**View the App Demo on Google Drive**](https://drive.google.com/file/d/17_Brz6EpMrFrSKjQNpQB9KXBLe70jcWi/view?usp=sharing)
 
 | Cognitive Test (MCQ) | Voice Screening Test |
 | :---- | :---- |
-| \<img src="[https://storage.googleapis.com/gemini-prod/images/4094a4c5-3428-4903-b778-98e983488732](https://www.google.com/search?q=https://storage.googleapis.com/gemini-prod/images/4094a4c5-3428-4903-b778-98e983488732)" alt="MCQ test screen" width="250"/\> | \<img src="[https://storage.googleapis.com/gemini-prod/images/483ef396-8576-47a3-875f-5573719001b9](https://www.google.com/search?q=https://storage.googleapis.com/gemini-prod/images/483ef396-8576-47a3-875f-5573719001b9)" alt="Voice test screen" width="250"/\> |
+| <img width="261" height="547" alt="image" src="https://github.com/user-attachments/assets/f8ebe7af-db51-4163-ad4f-fb4de95b9b33" />| <img width="250" height="525" alt="image" src="https://github.com/user-attachments/assets/1fb85075-f12c-42f1-a6f3-800c44cc21f5" />|
+
 
 | Cognitive Model Chat Interface |
 | :---- |
-| \<img src="[https://storage.googleapis.com/gemini-prod/images/4014d3f3-524f-4d2c-850f-e68516087b29](https://www.google.com/search?q=https://storage.googleapis.com/gemini-prod/images/4014d3f3-524f-4d2c-850f-e68516087b29)" alt="Cognitive model chat" width="500"/\> |
+| <img width="1500" height="716" alt="image" src="https://github.com/user-attachments/assets/4c6cc228-22fe-4d60-bd8c-f77ea14daf85" />|
 
 ## **🛠️ Methodology & Tech Stack**
 
@@ -56,7 +57,8 @@ This dual-modality approach provides a daily cognitive "health score," allowing 
 
 Our system follows a clear data pipeline to generate a cognitive assessment from a user's speech.
 
-\<img src="[https://storage.googleapis.com/gemini-prod/images/737e4244-93e5-4089-a228-5695029e2f9f](https://www.google.com/search?q=https://storage.googleapis.com/gemini-prod/images/737e4244-93e5-4089-a228-5695029e2f9f)" alt="Data pipeline diagram" width="700"/\>
+<img width="736" height="633" alt="image" src="https://github.com/user-attachments/assets/d0db9f84-cd99-4b4c-a4f5-7893e38caf2f" />
+
 
 ### **Model Architecture**
 
